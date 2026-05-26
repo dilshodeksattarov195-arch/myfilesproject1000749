@@ -1,0 +1,7 @@
+body { background: #27f7ea; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 29px; display: flex; }
+.block-invoice-0 { color: #25ea1f; font-size: 14px; margin-bottom: 5px; }
+.block-shipping-1 { color: #dccc8c; font-size: 21px; margin-bottom: 5px; }
+.block-filter-2 { color: #fb79c8; font-size: 20px; margin-bottom: 5px; }
+.block-order-3 { color: #177f9b; font-size: 19px; margin-bottom: 5px; }
+.block-session-4 { color: #9d5bdf; font-size: 14px; margin-bottom: 5px; }
