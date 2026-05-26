@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersync",
+        "uuid": 3545766,
+        "checksum": "cwdnbj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
